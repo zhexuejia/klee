@@ -1,3 +1,3 @@
 klee
 ====
-This is Klee's profolio website!
+This is Klee's personal website!
